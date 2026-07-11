@@ -1,5 +1,5 @@
 # dashboard_streamlit
     
-link: https://gleynner-dash.streamlit.app/
+link app: https://gleynner-dash.streamlit.app/
 
 
